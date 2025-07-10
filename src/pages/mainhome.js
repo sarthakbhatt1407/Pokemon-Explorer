@@ -120,6 +120,7 @@ export default function MainHome() {
             onChange={handleSearch}
             size={{ base: "md", md: "lg" }}
             borderRadius="full"
+            padding={{ base: 3, md: 4 }}
           />
         </InputGroup>
       </Box>
